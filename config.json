@@ -1,0 +1,18 @@
+{
+    "openai_api_key": "",
+    "default_prompt": "You are a financial analyst.",
+    "fields": [
+        "FinancialRisk",
+        "TaxRisk"
+    ],
+    "users": [
+        {
+            "username": "admin",
+            "password": "123456"
+        },
+        {
+            "username": "user1",
+            "password": "pass1"
+        }
+    ]
+}
