@@ -3,7 +3,8 @@
     "default_prompt": "You are a financial analyst.",
     "fields": [
         "FinancialRisk",
-        "TaxRisk"
+        "TaxRisk",
+        "full_report_sentence"
     ],
     "users": [
         {
